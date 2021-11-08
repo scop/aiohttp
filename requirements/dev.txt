@@ -115,7 +115,7 @@ iniconfig==1.1.1
     # via
     #   -r requirements/lint.txt
     #   pytest
-isort==5.9.2
+isort==5.10.0
     # via -r requirements/lint.txt
 jinja2==2.11.2
     # via
@@ -228,7 +228,7 @@ six==1.15.0
     #   virtualenv
 snowballstemmer==2.0.0
     # via sphinx
-sphinx==4.0.3
+sphinx==4.1.0
     # via
     #   -r requirements/doc.txt
     #   sphinxcontrib-asyncio
